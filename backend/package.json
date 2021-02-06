@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "THIS IS THE BACKEND FOR TRACKING THE SEARCH HISTORY OF USER'S ON THE MUSIC-ALBUM-SEARCH-ENGINE",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "CRISPEN GARI",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
