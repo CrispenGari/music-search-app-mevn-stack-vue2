@@ -12,7 +12,7 @@ THIS IS THE FRONT END OF THE MUSIC SEARCH APPLICATION WHICH SEARCHES FOR ALBUMS 
 
 ## Demo
 
-![alt-text]()
+![alt-text](https://github.com/CrispenGari/music-search-app-mevn-stack-vue2/blob/main/bandicam%202021-02-06%2023-14-48-295.jpg)
 
 ## Docummentation Links
 
